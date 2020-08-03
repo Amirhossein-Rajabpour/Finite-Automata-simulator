@@ -2,7 +2,7 @@
 
 # DFA and NFA to DFA converter
 <br>
-Theory of machines and languages course project.
+Theory of machines and languages course project.<br>
 `dfa.py` reads a DFA from `DFA_Input_1.txt` in the following input order and then gets a string from input. Then it outputs whether input string was accepted by DFA or not.
 <br>
 `nfa_to_dfa.py` reads a NFA from `NFA_Input_2.txt` in the following input order and then writes equivalent DFA to `DFA_Output_2.txt`.
