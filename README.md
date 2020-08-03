@@ -1,6 +1,6 @@
 # Finite Automata Simulator
 
-# DFA and NFA2DFA
+# DFA and NFA to DFA converter
 <br>
 Theory of machines and languages course project.
 `dfa.py` reads a DFA from `DFA_Input_1.txt` in the following input order and then gets a string from input. Then it outputs whether input string was accepted by DFA or not.
